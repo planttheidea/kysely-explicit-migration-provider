@@ -13,9 +13,9 @@
   "description": "Migration provider for `kysely` that allows explicit ordering of migration files",
   "devDependencies": {
     "@planttheidea/build-tools": "^2.0.8",
-    "kysely": "^0.29.5",
     "@vitest/coverage-v8": "^4.1.11",
     "eslint": "^9.39.5",
+    "kysely": "^0.29.5",
     "prettier": "^3.9.6",
     "release-it": "^21.0.2",
     "rollup": "^4.63.1",
@@ -85,5 +85,5 @@
   "sideEffects": false,
   "type": "module",
   "types": "./index.d.ts",
-  "version": "0.0.1"
+  "version": "1.0.0"
 }
